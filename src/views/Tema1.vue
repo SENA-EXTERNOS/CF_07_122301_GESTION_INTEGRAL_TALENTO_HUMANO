@@ -41,7 +41,8 @@
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Características
 
-    p(data-aos="fade-down").mb-5 Después de identificar la normativa laboral nacional, es importante saber cuáles son las características de esta, las cuales están comprendidas en el Código Sustantivo del Trabajo. 
+    p(data-aos="fade-down").mb-5 Después de identificar la normativa laboral nacional, es importante saber cuáles son las características de esta, las cuales están comprendidas en el Código Sustantivo del Trabajo.
+    p(data-aos="fade-down").mb-5 En el caso de la normativa laboral, es el Código Sustantivo del Trabajo el que regula la relación laboral entre el empleador y sus empleados, con el fin de lograr la justicia entre estos dos agentes, con una adecuada coordinación económica y equilibrio social. Las características de este documento son:    
     .bg1
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-12.up.bgwhite
@@ -78,7 +79,7 @@
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/10.png', alt='')  
 
       .row.justify-content-start.align-items-center.mb-5           
-        .col-lg-6
+        .col-lg-10
           .bgp.p-1(data-aos="fade-right")
             h4(data-aos="fade-down").mb-0 Leyes, decretos, resoluciones, relacionados con la contratación laboral
  
@@ -87,7 +88,7 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/11.png', alt='')    
         .col-lg-8
           .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-            p(data-aos="fade-down") El Código Sustantivo del Trabajo, es un compendio de normas que están expedidas por el Decreto Ley 3743 de 1950. Su objetivo es reglamentar la relación que tienen los empleadores con sus empleados, dentro de las organizaciones. Está ordenado a través de 492 artículos, dispuestos en 3 partes conformadas por títulos y capítulos. Este fue adoptado por el Decreto Ley 2663 del 5 de agosto de 1950 sobre el Código Sustantivo del Trabajo y fue publicado en el Diario Oficial No 27.407 del 9 de septiembre de 1950, en virtud del Estado de Sitio promulgado por el Decreto Extraordinario No 3518 de 1949. Únicamente ha tenido algunas modificaciones en el marco jurídico que rige las relaciones entre trabajadores y empleadores. Por este motivo, el Consejo Privado de Competitividad -CPC- en su informe nacional de competitividad 2019-2020, correspondiente al mercado laboral, recomendó modificar y actualizar del Código Sustantivo del Trabajo, teniendo en cuenta el contexto económico y social del país, para darle mayor flexibilidad al mercado laboral y adecuar las relaciones laborales que surgen de las nuevas economías, como la verde, la digital o la del cuidado.
+            p(data-aos="fade-down") El Código Sustantivo del Trabajo, es un compendio de normas que están expedidas por el Decreto #[b Ley 3743 de 1950]. Su objetivo es reglamentar la relación que tienen los empleadores con sus empleados, dentro de las organizaciones. Está ordenado a través de 492 artículos, dispuestos en 3 partes conformadas por títulos y capítulos. Este fue adoptado por el #[b Decreto Ley 2663 del 5 de agosto de 1950] sobre el Código Sustantivo del Trabajo y fue publicado en el #[b Diario Oficial No 27.407 del 9 de septiembre de 1950], en virtud del #[b Estado de Sitio] promulgado por el #[b Decreto Extraordinario No 3518 de 1949]. Únicamente ha tenido algunas modificaciones en el marco jurídico que rige las relaciones entre trabajadores y empleadores. Por este motivo, el Consejo Privado de Competitividad -CPC- en su informe nacional de competitividad 2019-2020, correspondiente al mercado laboral, recomendó modificar y actualizar del Código Sustantivo del Trabajo, teniendo en cuenta el contexto económico y social del país, para darle mayor flexibilidad al mercado laboral y adecuar las relaciones laborales que surgen de las nuevas economías, como la verde, la digital o la del cuidado.
           p(data-aos="fade-down") Antes de explorar el Código, es necesario identificar qué es ley, decreto y resolución, porque estos conceptos están relacionados con reglas que se deben cumplir y porque así lo exige el Estado. En Colombia, las leyes, decretos, resoluciones y demás sobre la contratación, se emiten por el Ministerio del Trabajo de Colombia.
 
     p(data-aos="fade-down").mb-5 A continuación, encontrará la diferencia entre ley, decreto y resolución. 
@@ -194,7 +195,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/16.png', alt='') 
 
       .row.justify-content-start.align-items-center.mb-5           
-        .col-lg-5
+        .col-lg-7
           .bgp.p-1(data-aos="fade-right")
             h4(data-aos="fade-down").mb-0 Tratamiento de datos y reglamento interno de trabajo
 
@@ -203,7 +204,7 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/17.png', alt='')    
         .col-lg-7
           .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
-            p(data-aos="fade-down").mb-0 El tratamiento de datos personales se refiere al uso de la información proporcionada por una persona, bien sea natural o jurídica. La ley que lo rige es la Ley Estatutaria 1581 de 2012, que obliga a las entidades publicas y privadas a tener un control sobre el manejo de la información, para resguardar los derechos de la intimidad del usuario. Por esta razón, el objetivo del tratamiento de datos personales es el de almacenar información de la persona para cumplir con la ley colombiana y extranjera; tramitar solicitudes; diligenciar la información para cumplir con las obligaciones tributarias y de la empresa en general; actualizar la información del archivo para mantener protegida dicha información, y evitar fraudes u otros delitos informáticos.
+            p(data-aos="fade-down").mb-0 El tratamiento de datos personales se refiere al uso de la información proporcionada por una persona, bien sea natural o jurídica. La ley que lo rige es la #[b Ley Estatutaria 1581 de 2012], que obliga a las entidades públicas y privadas a tener un control sobre el manejo de la información, para resguardar los derechos de la intimidad del usuario. Por esta razón, el objetivo del tratamiento de datos personales es el de almacenar información de la persona para cumplir con la ley colombiana y extranjera; tramitar solicitudes; diligenciar la información para cumplir con las obligaciones tributarias y de la empresa en general; actualizar la información del archivo para mantener protegida dicha información, y evitar fraudes u otros delitos informáticos.
 
           p(data-aos="fade-down").mb-5 Por otro lado, está el reglamento interno de trabajo, el cual está reglamentado en el Código Sustantivo del Trabajo a partir del título IV: reglamento de trabajo y mantenimiento del orden en el establecimiento capítulo I. Aquí se establece todo lo referente a este reglamento.  
 

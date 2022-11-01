@@ -126,7 +126,7 @@
                 li 
                   span.text-bold 9. 
                   p.mb-0 Declaración juramentada.
-          .row(numero="1" titulo="Formato de salud")
+          .row(numero="2" titulo="Formato de salud")
             .col-12
               p Los datos que contiene el formato de salud son:
               ol.lista-ol
@@ -146,7 +146,7 @@
                   span.text-bold 5. 
                   p.mb-0 Datos de identificación del empleador y otros aportantes, o de las entidades responsables de la afiliación colectiva.
  
-          .row(numero="1" titulo="Formato de riesgos laborales")
+          .row(numero="3" titulo="Formato de riesgos laborales")
             .col-12
               p Los datos que contiene el formato de ARL son:
 

@@ -29,19 +29,19 @@
         .tarjeta-avatar
           img.img-a.img-t.img-w(src='@/assets/curso/temas/21.svg' alt='AvatarTop')
           div.text-center.bg2.p-5.h-100
-            h4.pt-3.mb-3 Comunicación Verbal
+            h4.pt-3.mb-3 Comunicación verbal
             p.mb-0 Su objetivo es la relación de quien genera el mensaje (emisor) y de quien lo recibe (receptor), a través del medio por el cual se recibe dicho mensaje (canal). En este tipo de comunicación se encuentran la oral (transmitida con palabras) y la escrita (transmitida en el papel o en las pantallas).                                 
       .col-lg-4.my-3(data-aos="fade-down")
         .tarjeta-avatar
           img.img-a.img-t.img-w(src='@/assets/curso/temas/22.svg' alt='AvatarTop')
           div.text-center.bg2.p-5.h-100
-            h4.pt-3.mb-3 Comunicación No Verbal
+            h4.pt-3.mb-3 Comunicación no verbal
             p.mb-0 En este caso no se utilizan las palabras. Aquí predominan los gestos, la postura y la corporalidad. Sin decir palabra alguna, también se emiten mensajes.                                    
       .col-lg-4.my-3(data-aos="fade-right")
         .tarjeta-avatar
           img.img-a.img-t.img-w(src='@/assets/curso/temas/23.svg' alt='AvatarTop')
           div.text-center.bg2.p-5.h-100
-            h4.pt-3.mb-3 Comunicación Participativa
+            h4.pt-3.mb-3 Comunicación participativa
             p.mb-0 Depende de la participación entre emisor y receptor, que es una comunicación individual y la comunicación colectiva en la que intervienen varias personas con la finalidad de dar a conocer un tema en específico; es utilizada en el ámbito publicitario.  
       .col-lg-4.my-3(data-aos="fade-left")
         .tarjeta-avatar
@@ -53,7 +53,7 @@
         .tarjeta-avatar
           img.img-a.img-t.img-w(src='@/assets/curso/temas/25.svg' alt='AvatarTop')
           div.text-center.bg2.p-5.h-100
-            h4.pt-3.mb-3 Comunicación por Objetivo
+            h4.pt-3.mb-3 Comunicación por objetivo
             p.mb-0 Aquí es importante conocer cuál es el objetivo que se espera. En publicidad, para posicionar o vender un bien o un producto. En educación, para entregar un conocimiento. En la política, para dar a conocer las propuestas para convencer a los ciudadanos.
 
     .row.justify-content-start.align-items-center.mb-5           

@@ -150,7 +150,14 @@ export default {
     {
       tema: 'Normativa',
       referencia:
-        'Ley Estatutaria 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012. ',
+        'Código Sustantivo del Trabajo. Decreto Ley 3743 de 1950. (Colombia).',
+      tipo: 'PDF',
+      descarga: '/downloads/Codigo_Sustantivo_del_Trabajo.pdf',
+    },
+    {
+      tema: 'Normativa',
+      referencia:
+        'Ley Estatutaria 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012.',
       tipo: 'PDF',
       descarga: '/downloads/Ley_1581_de_2012.pdf',
     },
