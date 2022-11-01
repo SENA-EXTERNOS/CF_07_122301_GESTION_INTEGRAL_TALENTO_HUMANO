@@ -90,14 +90,14 @@
               .col-auto.bg3.p-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/39.svg', alt='')
               .col.bg4.p-3
-                p.mb-0 #[b Nominado], porque la ley le asignó una denominación especial.  
+                p.mb-0 Porque la ley le asignó una denominación especial.  
 
           .tarjeta.color-acento-botones(x="47.5%" y="72%" numero="+")
             .row.justify-content-center.align-items-stretch         
               .col-auto.bg3.p-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/40.svg', alt='')
               .col.bg4.p-3
-                p.mb-0 #[b Oneroso], porque se dan contraprestaciones de contenido económico.
+                p.mb-0 Porque se dan contraprestaciones de contenido económico.
 
     .row.justify-content-start.align-items-center.mb-5           
       .col-lg-3
