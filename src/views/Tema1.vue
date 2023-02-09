@@ -12,9 +12,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2.svg', alt='')    
       .col-lg-9
         .cajon.color-primario.p-4(data-aos="flip-down")
-          p(data-aos="fade-down") Para realizar una adecuada vinculación de personal en una organización, se requiere reconocer cuáles son los documentos solicitados para el proceso de contratación, cuál es la aplicación de procesos y cuáles son los procedimientos establecidos por la organización.
- 
-          p(data-aos="fade-down").mb-0 Además, cuál es la normativa vigente, su aplicación, y las leyes, decretos y resoluciones, relacionados con la contratación laboral; cómo se liquida la seguridad social, cómo se entrega la dotación al personal y cómo se crea una historia laboral. Para esto, es importante conocer sobre la normativa que actualmente rige en Colombia. 
+          p(data-aos="fade-down") Para realizar una adecuada vinculación de personal, se requiere reconocer cuáles son los documentos solicitados para el proceso de contratación, la aplicación de procesos y los procedimientos establecidos por la organización. Además, tener conocimiento sobre la normativa vigente, su aplicación, y las leyes, decretos y resoluciones, relacionados con la contratación laboral; también incluir el proceso para liquidar la seguridad social, entrega de dotación al personal y el modo de crear una historia laboral. Para esto, es importante conocer sobre la normativa que actualmente rige en Colombia.
 
     p(data-aos="fade-down").mb-5 La normativa laboral de un país establece las reglas de juego entre el empleador y el empleado. Es ahí donde se determinan los deberes y derechos de ambas partes y esta es cambiante porque se debe ajustar a la realidad social de su entorno. 
 
@@ -41,8 +39,8 @@
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Características
 
-    p(data-aos="fade-down").mb-5 Después de identificar la normativa laboral nacional, es importante saber cuáles son las características de esta, las cuales están comprendidas en el Código Sustantivo del Trabajo.
-    p(data-aos="fade-down").mb-5 En el caso de la normativa laboral, es el Código Sustantivo del Trabajo el que regula la relación laboral entre el empleador y sus empleados, con el fin de lograr la justicia entre estos dos agentes, con una adecuada coordinación económica y equilibrio social. Las características de este documento son:    
+    p(data-aos="fade-down").mb-5 Después de identificar la normativa laboral nacional, es importante saber cuáles son las características de esta, que se encuentran comprendidas en el Código Sustantivo del Trabajo.
+
     .bg1
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-12.up.bgwhite
@@ -56,7 +54,8 @@
             .py-3.py-md-4(titulo="Aclaraciones con parágrafos")
               .row.justify-content-center.align-items-center
                 .col-md-5.mb-4.mb-md-0
-                  p El CST contiene parágrafos en los artículos para explicar la temática que se está mencionando y lograr que se entienda la decisión descrita al interior del texto.        
+                  p El Código Sustantivo del Trabajo (CST) está escrito por medio de artículos, los cuales son disposiciones, enumeradas de forma consecutiva. Estos conforman un tratado, una ley o un reglamento, y contiene 492 artículos, divididos en 3 partes, conformadas por títulos y capítulos, que representan sus diferentes temáticas. 
+                  
                 .col-md-5
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/7.png', alt='')  
             .py-3.py-md-4(titulo="División por capítulos")
@@ -91,7 +90,7 @@
             p(data-aos="fade-down") El Código Sustantivo del Trabajo, es un compendio de normas que están expedidas por el Decreto #[b Ley 3743 de 1950]. Su objetivo es reglamentar la relación que tienen los empleadores con sus empleados, dentro de las organizaciones. Está ordenado a través de 492 artículos, dispuestos en 3 partes conformadas por títulos y capítulos. Este fue adoptado por el #[b Decreto Ley 2663 del 5 de agosto de 1950] sobre el Código Sustantivo del Trabajo y fue publicado en el #[b Diario Oficial No 27.407 del 9 de septiembre de 1950], en virtud del #[b Estado de Sitio] promulgado por el #[b Decreto Extraordinario No 3518 de 1949]. Únicamente ha tenido algunas modificaciones en el marco jurídico que rige las relaciones entre trabajadores y empleadores. Por este motivo, el Consejo Privado de Competitividad -CPC- en su informe nacional de competitividad 2019-2020, correspondiente al mercado laboral, recomendó modificar y actualizar del Código Sustantivo del Trabajo, teniendo en cuenta el contexto económico y social del país, para darle mayor flexibilidad al mercado laboral y adecuar las relaciones laborales que surgen de las nuevas economías, como la verde, la digital o la del cuidado.
           p(data-aos="fade-down") Antes de explorar el Código, es necesario identificar qué es ley, decreto y resolución, porque estos conceptos están relacionados con reglas que se deben cumplir y porque así lo exige el Estado. En Colombia, las leyes, decretos, resoluciones y demás sobre la contratación, se emiten por el Ministerio del Trabajo de Colombia.
 
-    p(data-aos="fade-down").mb-5 A continuación, encontrará la diferencia entre ley, decreto y resolución. 
+    p(data-aos="fade-down").mb-5 A continuación, encontrará la diferencia entre ley, decreto y resolución:
 
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-8 
@@ -119,7 +118,7 @@
       .col-lg-10
         p(data-aos="fade-down").mb-0 En Colombia, la seguridad social hace referencia a los derechos que tiene un trabajador, con el fin que se le garantice el bienestar actual y futuro, por lo que está conformado por los regímenes definidos por la ley y establecidos para la pensión, salud, riesgos laborales, y subsidio familiar. 
 
-    p(data-aos="fade-down").mb-5 A continuación, encontrará los regímenes definidos por la ley para la seguridad social en Colombia. 
+    p(data-aos="fade-down").mb-5 A continuación, encontrará los regímenes definidos por la ley para la seguridad social en Colombia:
 
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-4
@@ -158,7 +157,7 @@
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-8 
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg6")
-          .row.justify-content-center.align-items-center(titulo="La dotación debe cumplir con los siguientes parámetros")
+          .row.justify-content-center.align-items-center(titulo="La dotación debe cumplir con los siguientes parámetros:")
             .col-10
               ul.lista-ul
                 li 
@@ -204,14 +203,14 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/17.png', alt='')    
         .col-lg-7
           .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
-            p(data-aos="fade-down").mb-0 El tratamiento de datos personales se refiere al uso de la información proporcionada por una persona, bien sea natural o jurídica. La ley que lo rige es la #[b Ley Estatutaria 1581 de 2012], que obliga a las entidades públicas y privadas a tener un control sobre el manejo de la información, para resguardar los derechos de la intimidad del usuario. Por esta razón, el objetivo del tratamiento de datos personales es el de almacenar información de la persona para cumplir con la ley colombiana y extranjera; tramitar solicitudes; diligenciar la información para cumplir con las obligaciones tributarias y de la empresa en general; actualizar la información del archivo para mantener protegida dicha información, y evitar fraudes u otros delitos informáticos.
+            p(data-aos="fade-down").mb-0 El tratamiento de datos personales se refiere al uso de la información proporcionada por una persona, bien sea natural o jurídica. La ley que lo rige es la Ley Estatutaria 1581 de 2012, que obliga a las entidades publicas y privadas a tener un control sobre el manejo de la información, para resguardar los derechos de la intimidad del usuario. Por esta razón, el objetivo del tratamiento de datos personales es el de almacenar información de la persona para cumplir con la ley colombiana y extranjera; tramitar solicitudes; diligenciar la información para cumplir con las obligaciones tributarias y de la empresa en general; actualizar la información del archivo para mantener protegida dicha información y evitar fraudes u otros delitos informáticos.
 
-          p(data-aos="fade-down").mb-5 Por otro lado, está el reglamento interno de trabajo, el cual está reglamentado en el Código Sustantivo del Trabajo a partir del título IV: reglamento de trabajo y mantenimiento del orden en el establecimiento capítulo I. Aquí se establece todo lo referente a este reglamento.  
+          p(data-aos="fade-down").mb-5 Por otro lado, está el reglamento interno de trabajo, regulado en el Código Sustantivo del Trabajo, a partir del título IV: reglamento de trabajo y mantenimiento del orden en el establecimiento capítulo I. Aquí se establece todo lo referente a esta ordenanza.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-primario.p-4.mb-5(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Según el artículo 104 del CST, el reglamento interno de trabajo es el conjunto de normas que determinan las condiciones a que deben sujetarse el empleador y sus trabajadores en la prestación del servicio. El objetivo de su implementación es tener claridad y orden en las relaciones laborales y determinar el proceso disciplinario, las sanciones que impone el empleador y la estructura jerárquica en las empresas. Según lo estipulado en el artículo 108 del Código Sustantivo del Trabajo, el Reglamento Interno de Trabajo contiene 19 puntos fundamentales para su creación. En la Figura 1 puede precisar cuáles son.
+          p(data-aos="fade-down").mb-0 Según el artículo 104 del CST, el reglamento interno de trabajo es el conjunto de normas que determinan las condiciones a que deben sujetarse el empleador y sus trabajadores en la prestación del servicio. El objetivo de su implementación es tener claridad y orden en las relaciones laborales y determinar el proceso disciplinario, las sanciones que impone el empleador y la estructura jerárquica en las empresas. Según lo estipulado en el artículo 108 del Código Sustantivo del Trabajo, el Reglamento Interno de Trabajo contiene 19 puntos fundamentales para su creación. En la siguiente figura puede precisar cuáles son:
 
         .titulo-sexto.color-primario(data-aos="zoom-in-left")
           h5 Figura 1

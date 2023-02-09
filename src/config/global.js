@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Análisis y normativa para la vinculación laboral',
     descripcionCurso:
       'El análisis de la normativa para la vinculación laboral es importante en el proceso ejecutado por cualquier departamento de talento humano, debido a que después de la selección de los candidatos, se realiza la vinculación del personal, lo que posibilita el crecimiento de la organización y para su legalización se debe cumplir, con el proceso requerido, según la normativa vigente.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -169,7 +169,7 @@ export default {
       descarga: '/downloads/Ley_100_de_1993.pdf',
     },
     {
-      tema: 'Requisitos para la seguridad social',
+      tema: 'Seguridad social',
       referencia:
         'MinTrabajoCol. (20 de octubre de 2015). <i>Formalización laboral: seguridad social.</i> ',
       tipo: 'Video',
@@ -204,7 +204,7 @@ export default {
     {
       termino: 'Decreto',
       significado:
-        'Es un acto administrativo promulgado por el poder ejecutivo con contenido normativo reglamentario, sin necesidad de ser sometido al órgano legislativo.',
+        'acto administrativo promulgado por el poder ejecutivo, con contenido normativo reglamentario, sin necesidad de ser sometido al órgano legislativo.',
     },
     {
       termino: 'Dotación',

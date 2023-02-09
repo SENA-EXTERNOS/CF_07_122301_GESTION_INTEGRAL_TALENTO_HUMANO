@@ -34,8 +34,8 @@
 
           .row.justify-content-center.align-items-center(titulo="Ley 100 de 1993")
             .col-10
-              P Esta ley consagra la regulación referente al Sistema de Seguridad Social en Colombia, cumpliendo de esta manera con los requisitos correspondientes al pago de aportes correspondientes a salud, pensión y ARL, para evitar generar sanciones con la Unidad de Gestión Pensional y Parafiscales.              
-
+              P Esta ley consagra la regulación referente al Sistema de Seguridad Social en Colombia, cumpliendo de esta manera con los requisitos correspondientes al pago de aportes a la salud, pensión y ARL, para evitar generar sanciones con la Unidad de Gestión Pensional y Parafiscales.
+              
     .row.justify-content-start.align-items-center.mb-5           
       .col-lg-5
         .bgp.p-1(data-aos="fade-right")
@@ -78,7 +78,7 @@
           h4(data-aos="fade-down").mb-0 Formatos de afiliación 
 
     p(data-aos="fade-down") En ese quehacer que ejerce el área de talento humano en la organización, se debe incluir el reconocimiento de los diferentes formatos, para el pago del sistema de seguridad social. 
-    p(data-aos="fade-down").mb-5 Todas las personas naturales o jurídicas deben estar afiliadas por intermedio de las empresas en el sistema de seguridad social, salud, pensión y riesgos profesionales A continuación, se encuentran los formatos de cada régimen.    
+    p(data-aos="fade-down").mb-5 Todas las personas naturales o jurídicas deben estar afiliadas por intermedio de las empresas en el sistema de seguridad social, salud, pensión y riesgos profesionales. A continuación, se encuentran los formatos de cada régimen:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8 

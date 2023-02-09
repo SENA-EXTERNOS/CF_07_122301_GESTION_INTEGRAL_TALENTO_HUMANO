@@ -11,9 +11,9 @@
       .col-lg-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/20.svg', alt='')    
       .col-lg-9
-        p(data-aos="fade-down").mb-0 La comunicación es un proceso esencial en el día a día del ser humano. En el ámbito empresarial, y específicamente en la relación empleador-empleado, esta debe buscar ser eficaz para alcanzar los logros esperados.
+        p(data-aos="fade-down").mb-0 La comunicación es un proceso esencial en el día a día del ser humano. En el ámbito empresarial y, específicamente, en la relación empleador-empleado, esta debe buscar ser eficaz para alcanzar los logros esperados. 
 
-    p(data-aos="fade-down").mb-5 Lo invitamos a ver el siguiente video, donde se nos amplía la temática sobre la comunicación.  
+    p(data-aos="fade-down").mb-5 Lo invitamos a ver el siguiente video, donde se nos amplía la temática sobre la comunicación:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
@@ -65,10 +65,10 @@
       .col-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/26.svg', alt='')    
       .col-lg-10
-        p(data-aos="fade-down").mb-0 Luego de haber identificado cómo la comunicación es fundamental en la relación empleador-empleado, es importante saber cómo solicitar los documentos para la vinculación laboral. En el proceso de elaboración de un contrato de trabajo, se requiere conocer sobre las normas de vinculación, modificación y terminación, así como los documentos para contratación laboral en la organización; y verificar lo que se solicita al trabajador, en Colombia, al momento de su ingreso en la empresa, como requisito para la afiliación a la seguridad social, parafiscales, entre otros.
+        p(data-aos="fade-down").mb-0 Luego de haber identificado cómo la comunicación es fundamental en la relación empleador-empleado, es importante saber solicitar los documentos para la vinculación laboral. En el proceso de elaboración de un contrato de trabajo, se requiere conocer sobre las normas de vinculación, modificación y terminación, así como también los documentos para contratación laboral en la organización, y verificar lo que se solicita al trabajador. En Colombia, al momento de su ingreso en la empresa, puede ser el requisito para la afiliación a la seguridad social, parafiscales, entre otros.
 
-    p(data-aos="fade-down").mb-5 A continuación, podrá identificar los tipos de documentos, las características y la manera de elaborar los documentos para la vinculación laboral.
-
+    p(data-aos="fade-down").mb-5 Luego de haber identificado cómo la comunicación es fundamental en la relación empleador-empleado, es importante saber solicitar los documentos para la vinculación laboral. En el proceso de elaboración de un contrato de trabajo, se requiere conocer sobre las normas de vinculación, modificación y terminación, así como también los documentos para contratación laboral en la organización, y verificar lo que se solicita al trabajador. En Colombia, al momento de su ingreso en la empresa, puede ser el requisito para la afiliación a la seguridad social, parafiscales, entre otros.
+    
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-start.pt-4
