@@ -213,8 +213,8 @@
           p(data-aos="fade-down").mb-0 Según el artículo 104 del CST, el reglamento interno de trabajo es el conjunto de normas que determinan las condiciones a que deben sujetarse el empleador y sus trabajadores en la prestación del servicio. El objetivo de su implementación es tener claridad y orden en las relaciones laborales y determinar el proceso disciplinario, las sanciones que impone el empleador y la estructura jerárquica en las empresas. Según lo estipulado en el artículo 108 del Código Sustantivo del Trabajo, el Reglamento Interno de Trabajo contiene 19 puntos fundamentales para su creación. En la siguiente figura puede precisar cuáles son:
 
         .titulo-sexto.color-primario(data-aos="zoom-in-left")
-          h5 Figura 1
-          span Puntos del Reglamento Interno del Trabajo
+          h5 Figura 1 
+          | <br> #[i Puntos del Reglamento Interno del Trabajo]
 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg', alt='')                                             
 </template>
