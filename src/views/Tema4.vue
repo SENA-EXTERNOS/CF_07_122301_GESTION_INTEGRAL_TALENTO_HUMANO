@@ -69,7 +69,7 @@
       .col-lg-6
         .titulo-sexto.color-primario(data-aos="zoom-in-left")
           h5 Figura 2
-          span Documentos sistema de Seguridad Social
+          | <br> #[i Documentos sistema de Seguridad Social]
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/49.svg', alt='') 
 
     .row.justify-content-start.align-items-center.mb-5           
