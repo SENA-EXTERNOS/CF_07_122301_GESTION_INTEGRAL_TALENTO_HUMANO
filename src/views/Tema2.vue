@@ -20,7 +20,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/MbfA7LEGRrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     p(data-aos="fade-down") Después de identificar qué es la comunicación eficaz y sus principales técnicas, para lograr transmitir un mensaje adecuado, también es importante reconocer los tipos de comunicación, con el fin de saber cuál emplear en determinados momentos.
     p(data-aos="fade-down").mb-5 A continuación, se presentan los diferentes tipos de comunicación:
