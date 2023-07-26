@@ -247,7 +247,7 @@ export default {
       referencia:
         'Departamento Nacional de Planeación. (s.f.). <i>Seguridad Social Integral.</i>',
       link:
-        'https://www.dnp.gov.co/programas/desarrollo-social/subdireccion-de-empleo-y-seguridad-social/Paginas/Seguridad-Social-Integral.aspx#:~:text=De%20acuerdo%20con%20la%20Ley%20100%20de%201993%2C,servicios%20sociales%20complementarios.%201.%20Sistema%20General%20de%20Pensiones.',
+        'https://2022.dnp.gov.co/programas/desarrollo-social/subdireccion-de-empleo-y-seguridad-social/Paginas/Seguridad-Social-Integral.aspx',
     },
     {
       referencia:
