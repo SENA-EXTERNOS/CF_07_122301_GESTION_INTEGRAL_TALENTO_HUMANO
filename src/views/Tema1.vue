@@ -54,7 +54,7 @@
             .py-3.py-md-4(titulo="Aclaraciones con parágrafos")
               .row.justify-content-center.align-items-center
                 .col-md-5.mb-4.mb-md-0
-                  p El Código Sustantivo del Trabajo (CST) está escrito por medio de artículos, los cuales son disposiciones, enumeradas de forma consecutiva. Estos conforman un tratado, una ley o un reglamento, y contiene 492 artículos, divididos en 3 partes, conformadas por títulos y capítulos, que representan sus diferentes temáticas. 
+                  p El CST contiene parágrafos en los artículos para explicar la temática que se está mencionando y lograr que se entienda la decisión descrita al interior del texto.
                   
                 .col-md-5
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/7.png', alt='')  
