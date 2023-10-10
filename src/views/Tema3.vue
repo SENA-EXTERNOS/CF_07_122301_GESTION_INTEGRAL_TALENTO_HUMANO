@@ -154,7 +154,7 @@
 
                 li 
                   i.fas.fa-angle-right.colorv
-                  p.mb-0 Realizar los pagos a las siguientes entidades: Sistema General de Pensiones (Fondo de Pensión), Sistema General de Salud (EPS), Sistema General de riesgos profesionales (ARL) y Caja de Compensación Familiar.
+                  p.mb-0 Realizar los pagos a las siguientes entidades: Sistema General de Pensiones (Fondo de Pensión), Sistema General de Salud (EPS), Sistema General de Riesgos Laborales (ARL) y Caja de Compensación Familiar.
 
                 li 
                   i.fas.fa-angle-right.colorv

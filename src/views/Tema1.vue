@@ -80,14 +80,14 @@
       .row.justify-content-start.align-items-center.mb-5           
         .col-lg-10
           .bgp.p-1(data-aos="fade-right")
-            h4(data-aos="fade-down").mb-0 Leyes, decretos, resoluciones, relacionados con la contratación laboral
+            h4(data-aos="fade-down").mb-0 Leyes, decretos y resoluciones relacionadas con la contratación laboral
  
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-4
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/11.png', alt='')    
         .col-lg-8
           .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-            p(data-aos="fade-down") El Código Sustantivo del Trabajo, es un compendio de normas que están expedidas por el Decreto #[b Ley 3743 de 1950]. Su objetivo es reglamentar la relación que tienen los empleadores con sus empleados, dentro de las organizaciones. Está ordenado a través de 492 artículos, dispuestos en 3 partes conformadas por títulos y capítulos. Este fue adoptado por el #[b Decreto Ley 2663 del 5 de agosto de 1950] sobre el Código Sustantivo del Trabajo y fue publicado en el #[b Diario Oficial No 27.407 del 9 de septiembre de 1950], en virtud del #[b Estado de Sitio] promulgado por el #[b Decreto Extraordinario No 3518 de 1949]. Únicamente ha tenido algunas modificaciones en el marco jurídico que rige las relaciones entre trabajadores y empleadores. Por este motivo, el Consejo Privado de Competitividad -CPC- en su informe nacional de competitividad 2019-2020, correspondiente al mercado laboral, recomendó modificar y actualizar del Código Sustantivo del Trabajo, teniendo en cuenta el contexto económico y social del país, para darle mayor flexibilidad al mercado laboral y adecuar las relaciones laborales que surgen de las nuevas economías, como la verde, la digital o la del cuidado.
+            p(data-aos="fade-down") El Código Sustantivo del Trabajo, es un compendio de normas que están expedidas por el Decreto #[b Ley 3743 de 1950]. Su objetivo es reglamentar la relación que tienen los empleadores con sus empleados, dentro de las organizaciones. Está ordenado a través de 492 artículos, dispuestos en 3 partes conformadas por títulos y capítulos. Este fue adoptado por el #[b Decreto Ley 2663 del 5 de agosto de 1950] sobre el Código Sustantivo del Trabajo y fue publicado en el #[b Diario Oficial No 27.407 del 9 de septiembre de 1950], en virtud del #[b Estado de Sitio] promulgado por el #[b Decreto Extraordinario No 3518 de 1949]. Únicamente ha tenido algunas modificaciones en el marco jurídico que rige las relaciones entre trabajadores y empleadores. Por este motivo, el Consejo Privado de Competitividad -CPC- en su informe nacional de competitividad 2019-2020, correspondiente al mercado laboral, recomendó modificar y actualizar el Código Sustantivo del Trabajo, teniendo en cuenta el contexto económico y social del país, para darle mayor flexibilidad al mercado laboral y adecuar las relaciones laborales que surgen de las nuevas economías, como la verde, la digital o la del cuidado.
           p(data-aos="fade-down") Antes de explorar el Código, es necesario identificar qué es ley, decreto y resolución, porque estos conceptos están relacionados con reglas que se deben cumplir y porque así lo exige el Estado. En Colombia, las leyes, decretos, resoluciones y demás sobre la contratación, se emiten por el Ministerio del Trabajo de Colombia.
 
     p(data-aos="fade-down").mb-5 A continuación, encontrará la diferencia entre ley, decreto y resolución:
@@ -136,7 +136,7 @@
               P Amparo contra las contingencias derivadas de la vejez, la invalidez y la muerte; tiene por objeto garantizar a la población un reconocimiento de las pensiones y prestaciones determinadas en la Ley 100 de 1993. 
           .row.justify-content-center.align-items-center(titulo="Riesgos Laborales")
             .col-10
-              P Normas y procedimientos destinados a prevenir, proteger y atender a los empleados que sufren enfermedades o accidentes, ocasionados por el desempeño de las funciones en el desarrollo de su trabajo. Las entidades que se encargan de prestar este servicio se llaman Administradoras de riesgos laborales (ARL).                                               
+              P Normas y procedimientos destinados a prevenir, proteger y atender a los empleados que sufren enfermedades o accidentes, ocasionados por el desempeño de las funciones en el desarrollo de su trabajo. Las entidades que se encargan de prestar este servicio se llaman Administradoras de Riesgos Laborales (ARL).                                               
           .row.justify-content-center.align-items-center(titulo="Subsidio familiar")
             .col-10
               P Es el conjunto de instituciones, políticas y normativas orientadas a la protección integral, tanto del trabajador como de su familia. De la misma forma, a través de las Cajas de Compensación, se reconocen servicios sociales a los afiliados, orientados a: recreación, cultura, educación, prevención en salud, subsidio de vivienda, crédito y protección al cesante. 
